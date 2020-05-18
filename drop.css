@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 776px;
+   
+}
+.main p{
+    
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+   
+   
+    
+    
+
+}
+.second p{
+    margin: 0px;
+    padding-bottom: 4px;
+    font-size: 15px;
+    color:gray;
+}
+.third{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 450px;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+}
+.account{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    background: #E6E6E6;
+}
+.account p{
+    flex-basis: 395px;
+    padding-left: 15px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    
+}
+.fa {
+    font-size: 25px;
+    color: gray;
+}
+.name{
+    flex-basis: ;
+    width: 50%;
+    height: 65px;
+    margin-top: 9px;
+   
+}
+.name p{
+    color: black;
+    padding-left: 15px;
+    
+}
+}
+.account .accountsec .balance{
+    width: 50%;
+    height: 65px;
+    
+}
+.accountsec{
+    display: flex;
+    flex-grow: 2;
+
+    
+}
+
+.name .small{
+    font-size: 12px;
+}
+.balance p {
+    font-size: 11px;
+    color: black;
+}
+.balance .bold{
+    font-size: 16px;
+    
+   
+}
+.balance{
+    margin-left: 100px;
+    margin-top: 9px;
+}
